@@ -2,10 +2,16 @@
 #### I am a Software Engineer.
 ![I am a Software Engineer.](https://graphicriver.img.customer.envatousercontent.com/files/252456039/Character-Writing-Software-Programmer-AurielAki-590.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=fbe4ae8cfa0539c64996aaeff668d847)
 
-I have developed an application using C#, Javascript, and PHP programming languages. 
+I have experience using .NET, PHP, JavaScript languages to create and implement software applications.
+I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques.
 
-Skills: C#/ WordPress / PHP/ VUE JS / REACT / JS / HTML / CSS
 
+My background and skills are: C#/ WordPress / PHP/ VUE JS / REACT / JS / HTML / CSS
+- Highly skilled in designing, testing, and developing software
+- Thorough understanding of data structures and algorithms
+- Knowledgeable of back-end development best practices
+- Hands-on software troubleshooting experience
+- Proven track record of proper documentation for future maintenance and upgrades
 - 🌱 I’m currently learning to build world-class UIs for single-page applications using React, Angular, and other frameworks. 
 - 👯 I’m looking to collaborate on any projects that can challenge and expose me to new concepts and tools. 
 - ⚡ Fun fact: I am also a great musician 
