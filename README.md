@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chidi Michael</h1>
+<h1 align="left">Hi 👋, I'm Chidi Michael</h1>
 <h3 align="center">A Software Engineer</h3>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SlimzyCM&label=Views&color=blue&style=plastic" alt="SlimzyCM" /> </p>
  <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 
@@ -8,23 +7,24 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-My background and skills are: C#/ WordPress / PHP/ VUE JS / REACT / JS / HTML / CSS
-- Highly skilled in designing, testing, and developing software
-- Thorough understanding of data structures and algorithms
-- Knowledgeable of back-end development best practices
-- Hands-on software troubleshooting experience
-- Proven track record of proper documentation for future maintenance and upgrades
+Skills:
+- 1️⃣ Highly skilled in designing, testing, and developing software
+- 2️⃣ Thorough understanding of data structures and algorithms
+- 💻 Knowledgeable of back-end development best practices
+- 💯 Hands-on software troubleshooting experience
+- 🔖 Proven track record of proper documentation for future maintenance and upgrades
 - 🌱 I’m currently learning to build world-class UIs for single-page applications using React, Angular, and other frameworks. 
 - 👯 I’m looking to collaborate on any projects that can challenge and expose me to new concepts and tools. 
 - 💬 Ask me about ... **Software Develpoment**
 - 😄 Employement ... **Open for Backend Developer opportunities**
-- ⚡ Fun fact ... **I'm a Music Producer**
+- ⚡ Fun fact ... **I'm a Musician** 🎹 🎸 🎼 
 - 📫 How to reach me [Mail](mailto:chidimicheal17@gmail.com)
 ---
 
 ### Languages 🚧 
 ![C#](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor)
 ![Php](https://icongr.am/devicon/php-original.svg?size=50&color=currentColor)
+![WordPress](https://icongr.am/devicon/wordpress-original.svg?size=50&color=currentColor)
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![JQuery](https://icongr.am/devicon/jquery-original.svg?size=50&color=currentColor)
