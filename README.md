@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chidi Michael</h1>
+<h1 align="center" class="pulsate-bck">Hi 👋, I'm Chidi Michael</h1>
 <h3 align="center">A Software Engineer</h3>
  <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
+<link href="/path/to/markdown.css" rel="stylesheet"></link>
 
 <!-- in your body -->
 <i class="devicon-javascript-plain"></i>
